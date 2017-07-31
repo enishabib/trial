@@ -14,4 +14,6 @@ int main(int argc, const char * argv[]) {
     return 0;
     ⁄⁄hohohoh
     ⁄⁄hohgsodhg
+    
+    cout<<hello;
 }
